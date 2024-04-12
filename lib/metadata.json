@@ -1,0 +1,1353 @@
+{
+  "vaultName": "docs",
+  "lastExport": 1712934794205,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager native-scrollbars theme-light show-inline-title",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Features/Styling/CSS Styling.md",
+    "Features/Styling/Images.md",
+    "Features/Styling/Style Pane.md",
+    "Features/Styling/Styling.md",
+    "Features/Styling/YAML Styling.md",
+    "Features/Workspace mode/Workspace graph.md",
+    "Features/Workspace mode/Workspace mode.md",
+    "Features/Breadcrumbs code blocks.md",
+    "Features/Breadcrumbs integration.md",
+    "Features/Export to other programs.md",
+    "Features/Filtering.md",
+    "Features/Global Graph mode.md",
+    "Features/Juggl code block.md",
+    "Features/Layouts.md",
+    "Features/Local Graph mode.md",
+    "Features/Nodes Pane.md",
+    "files/bloom_screenshot.jpg",
+    "files/browser_screenshot.png",
+    "files/code_fence.gif",
+    "files/context_iframe.gif",
+    "files/CypherQuerying.png",
+    "files/demo.gif",
+    "files/graphxr.gif",
+    "files/img.png",
+    "files/juggl trailer.gif",
+    "files/juggl_screenshot.png",
+    "files/layouts.gif",
+    "files/main.db.json",
+    "files/obsidian neo4j plugin.gif",
+    "files/Pasted image 20201231174344.png",
+    "files/Pasted image 20201231174425.png",
+    "files/Pasted image 20201231175530.png",
+    "files/Pasted image 20201231180930.png",
+    "files/Pasted image 20201231181003.png",
+    "files/Pasted image 20201231181103.png",
+    "files/Pasted image 20201231181917.png",
+    "files/Pasted image 20210101144050.png",
+    "files/Pasted image 20210101144311.png",
+    "files/Pasted image 20210102141444.png",
+    "files/Pasted image 20210102141514.png",
+    "files/Pasted image 20210102141546.png",
+    "files/Pasted image 20210112215108.png",
+    "files/Pasted image 20210315210604.png",
+    "files/Pasted image 20210320161536.png",
+    "files/Pasted image 20210320161754.png",
+    "files/Pasted image 20210329191901.png",
+    "files/Pasted image 20210330193014.png",
+    "files/Pasted image 20210402152820.png",
+    "files/Pasted image 20210402154645.png",
+    "files/Pasted image 20210402155246.png",
+    "files/Pasted image 20210402162157.png",
+    "files/Pasted image 20210403140754.png",
+    "files/Pasted image 20210403141344.png",
+    "files/Pasted image 20210403142046.png",
+    "files/Pasted image 20210403143207.png",
+    "files/Pasted image 20210403144754.png",
+    "files/Pasted image 20210403150555.png",
+    "files/Pasted image 20210403150726.png",
+    "files/Pasted image 20210403151146.png",
+    "files/Pasted image 20210403151424.png",
+    "files/Pasted image 20210408165620.png",
+    "files/Pasted image 20210408165722.png",
+    "files/Pasted image 20210408165744.png",
+    "files/Pasted image 20210408165833.png",
+    "files/Pasted image 20210410161017.png",
+    "files/Pasted image 20210410161051.png",
+    "files/Pasted image 20210413145227.png",
+    "files/Pasted image 20210413145921.png",
+    "files/Pasted image 20210413150208.png",
+    "files/Pasted image 20210414175943.png",
+    "files/Pasted image 20210414182140.png",
+    "files/Pasted image 20210421133609.png",
+    "files/Pasted image 20210421133938.png",
+    "files/Pasted image 20210422092407.png",
+    "files/Pasted image 20220121103800.png",
+    "files/Pasted image 20220127142536.png",
+    "files/Pasted image 20220127142903.png",
+    "files/save_workspace.gif",
+    "files/Screen Recording 2021-01-02 at 14.19.42.mp4",
+    "files/Screen Recording 2021-01-02 at 15.01.02.mp4",
+    "files/Screen Recording 2021-01-02 at 15.05.43.mp4",
+    "files/Screen Recording 2021-01-02 at 15.09.51.mp4",
+    "files/Screen Recording 2021-01-02 at 15.14.06.mp4",
+    "files/Screen Recording 2021-01-02 at 15.21.34.mp4",
+    "files/Screen Recording 2021-01-02 at 15.24.43.mp4",
+    "files/Screen Recording 2021-01-02 at 15.32.58.mp4",
+    "files/Screen Recording 2021-01-02 at 15.32.58 1.mp4",
+    "files/Screen Recording 2021-01-02 at 15.38.11.mp4",
+    "files/Screen Recording 2021-01-02 at 15.43.17.mp4",
+    "files/Screen Recording 2021-04-02 at 16.48.29.mov",
+    "files/Screen Recording 2021-04-03 at 13.58.20.mp4",
+    "files/Screen Recording 2021-04-03 at 13.58.20.mov",
+    "files/Screen Recording 2021-04-03 at 14.59.13.mp4",
+    "files/Screen Recording 2021-04-14 at 17.29.09.mp4",
+    "files/Screenshot 2021-04-03 at 15.01.44.png",
+    "files/selectdrag.mp4",
+    "files/style_pane.gif",
+    "files/styled_screenshot.png",
+    "Contributing.md",
+    "Discord.md",
+    "Emile van Krieken.md",
+    "Installing Juggl.md",
+    "Juggl.md",
+    "Juggl API.md",
+    "Link Types.md",
+    "Recommend plugins.md",
+    "Roadmap.md",
+    "Search on Internet Plugin.md",
+    "Semantic Obsidian.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/media/pasted-image-20210422092407.png",
+    "lib/media/pasted-image-20210414175943.png",
+    "lib/media/pasted-image-20210414182140.png",
+    "lib/media/pasted-image-20220121103800.png",
+    "lib/media/style_pane.gif",
+    "lib/media/screen-recording-2021-04-14-at-17.29.09.mp4",
+    "lib/media/pasted-image-20210402154645.png",
+    "lib/media/pasted-image-20210402155246.png",
+    "lib/media/selectdrag.mp4",
+    "lib/media/screen-recording-2021-04-03-at-13.58.20.mp4",
+    "lib/media/pasted-image-20210403140754.png",
+    "lib/media/pasted-image-20210403141344.png",
+    "lib/media/pasted-image-20210403142046.png",
+    "lib/media/pasted-image-20210403144754.png",
+    "lib/media/pasted-image-20210403143207.png",
+    "lib/media/pasted-image-20210402162157.png",
+    "lib/media/screen-recording-2021-04-03-at-14.59.13.mp4",
+    "lib/media/save_workspace.gif",
+    "lib/media/screenshot-2021-04-03-at-15.01.44.png",
+    "lib/media/pasted-image-20210403150726.png",
+    "lib/media/pasted-image-20220127142903.png",
+    "lib/media/pasted-image-20210413145227.png",
+    "lib/media/pasted-image-20210413145921.png",
+    "lib/media/pasted-image-20210330193014.png",
+    "lib/media/pasted-image-20210402152820.png",
+    "lib/media/code_fence.gif",
+    "lib/media/pasted-image-20210413150208.png",
+    "lib/media/layouts.gif",
+    "lib/media/pasted-image-20210403151424.png",
+    "lib/media/pasted-image-20210408165620.png",
+    "lib/media/pasted-image-20210408165722.png",
+    "lib/media/pasted-image-20210408165744.png",
+    "lib/media/pasted-image-20210408165833.png",
+    "lib/media/pasted-image-20210403151146.png",
+    "files/pasted-image-20210320161754.png",
+    "files/pasted-image-20210320161536.png",
+    "files/juggl-trailer.gif",
+    "files/pasted-image-20220127142536.png",
+    "files/pasted-image-20210421133609.png",
+    "files/pasted-image-20210421133938.png",
+    "files/pasted-image-20220127142903.png"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Features/Styling/CSS Styling.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 9749,
+      "exportedPath": "features/styling/css-styling.html",
+      "dependencies": [
+        "lib/media/pasted-image-20210422092407.png",
+        "lib/media/pasted-image-20210414175943.png",
+        "lib/media/pasted-image-20210414182140.png",
+        "lib/media/pasted-image-20220121103800.png"
+      ]
+    },
+    "Features/Styling/Images.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 395,
+      "exportedPath": "features/styling/images.html",
+      "dependencies": []
+    },
+    "Features/Styling/Style Pane.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 1282,
+      "exportedPath": "features/styling/style-pane.html",
+      "dependencies": [
+        "lib/media/style_pane.gif",
+        "lib/media/screen-recording-2021-04-14-at-17.29.09.mp4"
+      ]
+    },
+    "Features/Styling/Styling.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 1388,
+      "exportedPath": "features/styling/styling.html",
+      "dependencies": []
+    },
+    "Features/Styling/YAML Styling.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 2459,
+      "exportedPath": "features/styling/yaml-styling.html",
+      "dependencies": []
+    },
+    "Features/Workspace mode/Workspace graph.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 95,
+      "exportedPath": "features/workspace-mode/workspace-graph.html",
+      "dependencies": []
+    },
+    "Features/Workspace mode/Workspace mode.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 4060,
+      "exportedPath": "features/workspace-mode/workspace-mode.html",
+      "dependencies": [
+        "lib/media/pasted-image-20210402154645.png",
+        "lib/media/pasted-image-20210402155246.png",
+        "lib/media/selectdrag.mp4",
+        "lib/media/screen-recording-2021-04-03-at-13.58.20.mp4",
+        "lib/media/pasted-image-20210403140754.png",
+        "lib/media/pasted-image-20210403141344.png",
+        "lib/media/pasted-image-20210403142046.png",
+        "lib/media/pasted-image-20210403144754.png",
+        "lib/media/pasted-image-20210403143207.png",
+        "lib/media/pasted-image-20210402162157.png",
+        "lib/media/screen-recording-2021-04-03-at-14.59.13.mp4",
+        "lib/media/save_workspace.gif",
+        "lib/media/screenshot-2021-04-03-at-15.01.44.png",
+        "lib/media/pasted-image-20210403150726.png"
+      ]
+    },
+    "Features/Breadcrumbs code blocks.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 419,
+      "exportedPath": "features/breadcrumbs-code-blocks.html",
+      "dependencies": []
+    },
+    "Features/Breadcrumbs integration.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 845,
+      "exportedPath": "features/breadcrumbs-integration.html",
+      "dependencies": [
+        "lib/media/pasted-image-20220127142903.png"
+      ]
+    },
+    "Features/Export to other programs.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 355,
+      "exportedPath": "features/export-to-other-programs.html",
+      "dependencies": []
+    },
+    "Features/Filtering.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 1254,
+      "exportedPath": "features/filtering.html",
+      "dependencies": [
+        "lib/media/pasted-image-20210413145227.png",
+        "lib/media/pasted-image-20210413145921.png"
+      ]
+    },
+    "Features/Global Graph mode.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 1013,
+      "exportedPath": "features/global-graph-mode.html",
+      "dependencies": [
+        "lib/media/pasted-image-20210330193014.png",
+        "lib/media/pasted-image-20210402152820.png"
+      ]
+    },
+    "Features/Juggl code block.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 2017,
+      "exportedPath": "features/juggl-code-block.html",
+      "dependencies": [
+        "lib/media/code_fence.gif",
+        "lib/media/pasted-image-20210413150208.png"
+      ]
+    },
+    "Features/Layouts.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 1401,
+      "exportedPath": "features/layouts.html",
+      "dependencies": [
+        "lib/media/layouts.gif",
+        "lib/media/pasted-image-20210403151424.png",
+        "lib/media/pasted-image-20210408165620.png",
+        "lib/media/pasted-image-20210408165722.png",
+        "lib/media/pasted-image-20210408165744.png",
+        "lib/media/pasted-image-20210408165833.png"
+      ]
+    },
+    "Features/Local Graph mode.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 257,
+      "exportedPath": "features/local-graph-mode.html",
+      "dependencies": []
+    },
+    "Features/Nodes Pane.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 581,
+      "exportedPath": "features/nodes-pane.html",
+      "dependencies": [
+        "lib/media/pasted-image-20210403151146.png"
+      ]
+    },
+    "files/bloom_screenshot.jpg": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 222920,
+      "exportedPath": "files/bloom_screenshot.jpg",
+      "dependencies": []
+    },
+    "files/browser_screenshot.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 563945,
+      "exportedPath": "files/browser_screenshot.png",
+      "dependencies": []
+    },
+    "files/code_fence.gif": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 1748635,
+      "exportedPath": "files/code_fence.gif",
+      "dependencies": []
+    },
+    "files/context_iframe.gif": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 1357839,
+      "exportedPath": "files/context_iframe.gif",
+      "dependencies": []
+    },
+    "files/CypherQuerying.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 1191004,
+      "exportedPath": "files/cypherquerying.png",
+      "dependencies": []
+    },
+    "files/demo.gif": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 416260,
+      "exportedPath": "files/demo.gif",
+      "dependencies": []
+    },
+    "files/graphxr.gif": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 15525047,
+      "exportedPath": "files/graphxr.gif",
+      "dependencies": []
+    },
+    "files/img.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 108617,
+      "exportedPath": "files/img.png",
+      "dependencies": []
+    },
+    "files/juggl trailer.gif": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 7085080,
+      "exportedPath": "files/juggl-trailer.gif",
+      "dependencies": []
+    },
+    "files/juggl_screenshot.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 721169,
+      "exportedPath": "files/juggl_screenshot.png",
+      "dependencies": []
+    },
+    "files/layouts.gif": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 2995795,
+      "exportedPath": "files/layouts.gif",
+      "dependencies": []
+    },
+    "files/main.db.json": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 222,
+      "exportedPath": "files/main.db.json",
+      "dependencies": []
+    },
+    "files/obsidian neo4j plugin.gif": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 3651842,
+      "exportedPath": "files/obsidian-neo4j-plugin.gif",
+      "dependencies": []
+    },
+    "files/Pasted image 20201231174344.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 22377,
+      "exportedPath": "files/pasted-image-20201231174344.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20201231174425.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 30364,
+      "exportedPath": "files/pasted-image-20201231174425.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20201231175530.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 151717,
+      "exportedPath": "files/pasted-image-20201231175530.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20201231180930.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 226175,
+      "exportedPath": "files/pasted-image-20201231180930.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20201231181003.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 70917,
+      "exportedPath": "files/pasted-image-20201231181003.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20201231181103.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 13971,
+      "exportedPath": "files/pasted-image-20201231181103.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20201231181917.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 124678,
+      "exportedPath": "files/pasted-image-20201231181917.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210101144050.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 117266,
+      "exportedPath": "files/pasted-image-20210101144050.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210101144311.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 307946,
+      "exportedPath": "files/pasted-image-20210101144311.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210102141444.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 84209,
+      "exportedPath": "files/pasted-image-20210102141444.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210102141514.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 84209,
+      "exportedPath": "files/pasted-image-20210102141514.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210102141546.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 75526,
+      "exportedPath": "files/pasted-image-20210102141546.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210112215108.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 510600,
+      "exportedPath": "files/pasted-image-20210112215108.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210315210604.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 373230,
+      "exportedPath": "files/pasted-image-20210315210604.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210320161536.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 176433,
+      "exportedPath": "files/pasted-image-20210320161536.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210320161754.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 28421,
+      "exportedPath": "files/pasted-image-20210320161754.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210329191901.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 269686,
+      "exportedPath": "files/pasted-image-20210329191901.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210330193014.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 85327,
+      "exportedPath": "files/pasted-image-20210330193014.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210402152820.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 48074,
+      "exportedPath": "files/pasted-image-20210402152820.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210402154645.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 161008,
+      "exportedPath": "files/pasted-image-20210402154645.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210402155246.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 19079,
+      "exportedPath": "files/pasted-image-20210402155246.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210402162157.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 91852,
+      "exportedPath": "files/pasted-image-20210402162157.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210403140754.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 15117,
+      "exportedPath": "files/pasted-image-20210403140754.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210403141344.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 11055,
+      "exportedPath": "files/pasted-image-20210403141344.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210403142046.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 11210,
+      "exportedPath": "files/pasted-image-20210403142046.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210403143207.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 20719,
+      "exportedPath": "files/pasted-image-20210403143207.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210403144754.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 10737,
+      "exportedPath": "files/pasted-image-20210403144754.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210403150555.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 10737,
+      "exportedPath": "files/pasted-image-20210403150555.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210403150726.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 49684,
+      "exportedPath": "files/pasted-image-20210403150726.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210403151146.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 93274,
+      "exportedPath": "files/pasted-image-20210403151146.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210403151424.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 3998,
+      "exportedPath": "files/pasted-image-20210403151424.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210408165620.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 217444,
+      "exportedPath": "files/pasted-image-20210408165620.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210408165722.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 392584,
+      "exportedPath": "files/pasted-image-20210408165722.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210408165744.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 417364,
+      "exportedPath": "files/pasted-image-20210408165744.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210408165833.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 367634,
+      "exportedPath": "files/pasted-image-20210408165833.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210410161017.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 100616,
+      "exportedPath": "files/pasted-image-20210410161017.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210410161051.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 99510,
+      "exportedPath": "files/pasted-image-20210410161051.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210413145227.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 1745,
+      "exportedPath": "files/pasted-image-20210413145227.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210413145921.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 9624,
+      "exportedPath": "files/pasted-image-20210413145921.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210413150208.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 42654,
+      "exportedPath": "files/pasted-image-20210413150208.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210414175943.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 257559,
+      "exportedPath": "files/pasted-image-20210414175943.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210414182140.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 57083,
+      "exportedPath": "files/pasted-image-20210414182140.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210421133609.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 109531,
+      "exportedPath": "files/pasted-image-20210421133609.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210421133938.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 251911,
+      "exportedPath": "files/pasted-image-20210421133938.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20210422092407.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 95658,
+      "exportedPath": "files/pasted-image-20210422092407.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20220121103800.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 4332,
+      "exportedPath": "files/pasted-image-20220121103800.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20220127142536.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 87426,
+      "exportedPath": "files/pasted-image-20220127142536.png",
+      "dependencies": []
+    },
+    "files/Pasted image 20220127142903.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 185037,
+      "exportedPath": "files/pasted-image-20220127142903.png",
+      "dependencies": []
+    },
+    "files/save_workspace.gif": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 4619052,
+      "exportedPath": "files/save_workspace.gif",
+      "dependencies": []
+    },
+    "files/Screen Recording 2021-01-02 at 14.19.42.mp4": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 405038,
+      "exportedPath": "files/screen-recording-2021-01-02-at-14.19.42.mp4",
+      "dependencies": []
+    },
+    "files/Screen Recording 2021-01-02 at 15.01.02.mp4": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 291932,
+      "exportedPath": "files/screen-recording-2021-01-02-at-15.01.02.mp4",
+      "dependencies": []
+    },
+    "files/Screen Recording 2021-01-02 at 15.05.43.mp4": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 2014033,
+      "exportedPath": "files/screen-recording-2021-01-02-at-15.05.43.mp4",
+      "dependencies": []
+    },
+    "files/Screen Recording 2021-01-02 at 15.09.51.mp4": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 209544,
+      "exportedPath": "files/screen-recording-2021-01-02-at-15.09.51.mp4",
+      "dependencies": []
+    },
+    "files/Screen Recording 2021-01-02 at 15.14.06.mp4": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 266006,
+      "exportedPath": "files/screen-recording-2021-01-02-at-15.14.06.mp4",
+      "dependencies": []
+    },
+    "files/Screen Recording 2021-01-02 at 15.21.34.mp4": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 644054,
+      "exportedPath": "files/screen-recording-2021-01-02-at-15.21.34.mp4",
+      "dependencies": []
+    },
+    "files/Screen Recording 2021-01-02 at 15.24.43.mp4": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 637946,
+      "exportedPath": "files/screen-recording-2021-01-02-at-15.24.43.mp4",
+      "dependencies": []
+    },
+    "files/Screen Recording 2021-01-02 at 15.32.58.mp4": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 264448,
+      "exportedPath": "files/screen-recording-2021-01-02-at-15.32.58.mp4",
+      "dependencies": []
+    },
+    "files/Screen Recording 2021-01-02 at 15.32.58 1.mp4": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 264448,
+      "exportedPath": "files/screen-recording-2021-01-02-at-15.32.58-1.mp4",
+      "dependencies": []
+    },
+    "files/Screen Recording 2021-01-02 at 15.38.11.mp4": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 171650,
+      "exportedPath": "files/screen-recording-2021-01-02-at-15.38.11.mp4",
+      "dependencies": []
+    },
+    "files/Screen Recording 2021-01-02 at 15.43.17.mp4": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 2119162,
+      "exportedPath": "files/screen-recording-2021-01-02-at-15.43.17.mp4",
+      "dependencies": []
+    },
+    "files/Screen Recording 2021-04-02 at 16.48.29.mov": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 401896,
+      "exportedPath": "files/screen-recording-2021-04-02-at-16.48.29.mov",
+      "dependencies": []
+    },
+    "files/Screen Recording 2021-04-03 at 13.58.20.mp4": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 169276,
+      "exportedPath": "files/screen-recording-2021-04-03-at-13.58.20.mp4",
+      "dependencies": []
+    },
+    "files/Screen Recording 2021-04-03 at 13.58.20.mov": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 807794,
+      "exportedPath": "files/screen-recording-2021-04-03-at-13.58.20.mov",
+      "dependencies": []
+    },
+    "files/Screen Recording 2021-04-03 at 14.59.13.mp4": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 143730,
+      "exportedPath": "files/screen-recording-2021-04-03-at-14.59.13.mp4",
+      "dependencies": []
+    },
+    "files/Screen Recording 2021-04-14 at 17.29.09.mp4": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 129501,
+      "exportedPath": "files/screen-recording-2021-04-14-at-17.29.09.mp4",
+      "dependencies": []
+    },
+    "files/Screenshot 2021-04-03 at 15.01.44.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 7899,
+      "exportedPath": "files/screenshot-2021-04-03-at-15.01.44.png",
+      "dependencies": []
+    },
+    "files/selectdrag.mp4": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 45877,
+      "exportedPath": "files/selectdrag.mp4",
+      "dependencies": []
+    },
+    "files/style_pane.gif": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 2203643,
+      "exportedPath": "files/style_pane.gif",
+      "dependencies": []
+    },
+    "files/styled_screenshot.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 252966,
+      "exportedPath": "files/styled_screenshot.png",
+      "dependencies": []
+    },
+    "Contributing.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 1105,
+      "exportedPath": "contributing.html",
+      "dependencies": []
+    },
+    "Discord.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 848,
+      "exportedPath": "discord.html",
+      "dependencies": []
+    },
+    "Emile van Krieken.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 427,
+      "exportedPath": "emile-van-krieken.html",
+      "dependencies": []
+    },
+    "Installing Juggl.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 1035,
+      "exportedPath": "installing-juggl.html",
+      "dependencies": [
+        "files/pasted-image-20210320161754.png",
+        "files/pasted-image-20210320161536.png",
+        "files/pasted-image-20210320161754.png"
+      ]
+    },
+    "Juggl.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 2822,
+      "exportedPath": "juggl.html",
+      "dependencies": [
+        "files/juggl-trailer.gif",
+        "files/pasted-image-20220127142536.png"
+      ]
+    },
+    "Juggl API.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 1349,
+      "exportedPath": "juggl-api.html",
+      "dependencies": []
+    },
+    "Link Types.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 3213,
+      "exportedPath": "link-types.html",
+      "dependencies": [
+        "files/pasted-image-20210421133609.png",
+        "files/pasted-image-20210421133938.png"
+      ]
+    },
+    "Recommend plugins.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 945,
+      "exportedPath": "recommend-plugins.html",
+      "dependencies": [
+        "files/pasted-image-20220127142903.png"
+      ]
+    },
+    "Roadmap.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 1789,
+      "exportedPath": "roadmap.html",
+      "dependencies": []
+    },
+    "Search on Internet Plugin.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 2055,
+      "exportedPath": "search-on-internet-plugin.html",
+      "dependencies": [
+        "files/context_iframe.gif"
+      ]
+    },
+    "Semantic Obsidian.md": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 1401,
+      "exportedPath": "semantic-obsidian.html",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20210422092407.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 95658,
+      "exportedPath": "lib/media/pasted-image-20210422092407.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20210414175943.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 257559,
+      "exportedPath": "lib/media/pasted-image-20210414175943.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20210414182140.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 57083,
+      "exportedPath": "lib/media/pasted-image-20210414182140.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20220121103800.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 4332,
+      "exportedPath": "lib/media/pasted-image-20220121103800.png",
+      "dependencies": []
+    },
+    "lib/media/style_pane.gif": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 2203643,
+      "exportedPath": "lib/media/style_pane.gif",
+      "dependencies": []
+    },
+    "lib/media/screen-recording-2021-04-14-at-17.29.09.mp4": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 129501,
+      "exportedPath": "lib/media/screen-recording-2021-04-14-at-17.29.09.mp4",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20210402154645.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 161008,
+      "exportedPath": "lib/media/pasted-image-20210402154645.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20210402155246.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 19079,
+      "exportedPath": "lib/media/pasted-image-20210402155246.png",
+      "dependencies": []
+    },
+    "lib/media/selectdrag.mp4": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 45877,
+      "exportedPath": "lib/media/selectdrag.mp4",
+      "dependencies": []
+    },
+    "lib/media/screen-recording-2021-04-03-at-13.58.20.mp4": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 169276,
+      "exportedPath": "lib/media/screen-recording-2021-04-03-at-13.58.20.mp4",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20210403140754.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 15117,
+      "exportedPath": "lib/media/pasted-image-20210403140754.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20210403141344.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 11055,
+      "exportedPath": "lib/media/pasted-image-20210403141344.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20210403142046.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 11210,
+      "exportedPath": "lib/media/pasted-image-20210403142046.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20210403144754.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 10737,
+      "exportedPath": "lib/media/pasted-image-20210403144754.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20210403143207.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 20719,
+      "exportedPath": "lib/media/pasted-image-20210403143207.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20210402162157.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 91852,
+      "exportedPath": "lib/media/pasted-image-20210402162157.png",
+      "dependencies": []
+    },
+    "lib/media/screen-recording-2021-04-03-at-14.59.13.mp4": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 143730,
+      "exportedPath": "lib/media/screen-recording-2021-04-03-at-14.59.13.mp4",
+      "dependencies": []
+    },
+    "lib/media/save_workspace.gif": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 4619052,
+      "exportedPath": "lib/media/save_workspace.gif",
+      "dependencies": []
+    },
+    "lib/media/screenshot-2021-04-03-at-15.01.44.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 7899,
+      "exportedPath": "lib/media/screenshot-2021-04-03-at-15.01.44.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20210403150726.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 49684,
+      "exportedPath": "lib/media/pasted-image-20210403150726.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20220127142903.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 185037,
+      "exportedPath": "lib/media/pasted-image-20220127142903.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20210413145227.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 1745,
+      "exportedPath": "lib/media/pasted-image-20210413145227.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20210413145921.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 9624,
+      "exportedPath": "lib/media/pasted-image-20210413145921.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20210330193014.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 85327,
+      "exportedPath": "lib/media/pasted-image-20210330193014.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20210402152820.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 48074,
+      "exportedPath": "lib/media/pasted-image-20210402152820.png",
+      "dependencies": []
+    },
+    "lib/media/code_fence.gif": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 1748635,
+      "exportedPath": "lib/media/code_fence.gif",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20210413150208.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 42654,
+      "exportedPath": "lib/media/pasted-image-20210413150208.png",
+      "dependencies": []
+    },
+    "lib/media/layouts.gif": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 2995795,
+      "exportedPath": "lib/media/layouts.gif",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20210403151424.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 3998,
+      "exportedPath": "lib/media/pasted-image-20210403151424.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20210408165620.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 217444,
+      "exportedPath": "lib/media/pasted-image-20210408165620.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20210408165722.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 392584,
+      "exportedPath": "lib/media/pasted-image-20210408165722.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20210408165744.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 417364,
+      "exportedPath": "lib/media/pasted-image-20210408165744.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20210408165833.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 367634,
+      "exportedPath": "lib/media/pasted-image-20210408165833.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20210403151146.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 93274,
+      "exportedPath": "lib/media/pasted-image-20210403151146.png",
+      "dependencies": []
+    },
+    "files/pasted-image-20210320161754.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 28421,
+      "exportedPath": "files/pasted-image-20210320161754.png",
+      "dependencies": []
+    },
+    "files/pasted-image-20210320161536.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 176433,
+      "exportedPath": "files/pasted-image-20210320161536.png",
+      "dependencies": []
+    },
+    "files/juggl-trailer.gif": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 7085080,
+      "exportedPath": "files/juggl-trailer.gif",
+      "dependencies": []
+    },
+    "files/pasted-image-20220127142536.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 87426,
+      "exportedPath": "files/pasted-image-20220127142536.png",
+      "dependencies": []
+    },
+    "files/pasted-image-20210421133609.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 109531,
+      "exportedPath": "files/pasted-image-20210421133609.png",
+      "dependencies": []
+    },
+    "files/pasted-image-20210421133938.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 251911,
+      "exportedPath": "files/pasted-image-20210421133938.png",
+      "dependencies": []
+    },
+    "files/pasted-image-20220127142903.png": {
+      "modifiedTime": 1712934671501,
+      "sourceSize": 185037,
+      "exportedPath": "files/pasted-image-20220127142903.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 43554,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 2551,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 157786,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 204570,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1712934794205,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
